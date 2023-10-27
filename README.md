@@ -2,7 +2,9 @@
 
 Welcome to my GitHub profile! I'm a passionate frontend developer with a love for creating stunning web experiences. I'm always on the lookout for exciting new projects and challenges. Here, you'll find a glimpse of what I'm all about.
 
-![image](https://github.com/ClassyJuhi/ClassyJuhi/assets/103419567/01e1a611-8ce5-4e45-88ef-f320c7d5b320)
+<p align="center">
+  <img src="https://github.com/ClassyJuhi/ClassyJuhi/assets/103419567/01e1a611-8ce5-4e45-88ef-f320c7d5b320" alt="Image" />
+</p>
 
 ## 🚀 What I Do
 
@@ -43,11 +45,10 @@ Let's connect:
 - 📫 LinkedIn: [Classy-Juhi](https://www.linkedin.com/in/classy-juhi/)
 - 🚀 CodePen: [Classy_Juhi](https://codepen.io/Classy_Juhi)
 
-## 🌐 Check Out My Projects
-
-Feel free to explore my GitHub repositories to see some of the projects I've been working on. I'm always open to feedback and collaboration.
-
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=ClassyJuhi&show_icons=true)](https://github.com/ClassyJuhi)
+<p align="center">
+  <a href="https://github.com/ClassyJuhi">
+    <img src="https://github-readme-stats.vercel.app/api?username=ClassyJuhi&show_icons=true" alt="GitHub Stats" />
+  </a>
+</p>
 
 Thanks for stopping by! Let's build something amazing together. 🚀
-  
