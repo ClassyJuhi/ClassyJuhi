@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! I'm a passionate frontend developer with a love for creating stunning web experiences. I'm always on the lookout for exciting new projects and challenges. Here, you'll find a glimpse of what I'm all about.
 
 <p align="center">
-  <img src="https://github.com/ClassyJuhi/ClassyJuhi/assets/103419567/01e1a611-8ce5-4e45-88ef-f320c7d5b320" alt="Image" />
+  <img src="https://github.com/ClassyJuhi/ClassyJuhi/assets/103419567/01e1a611-8ce5-4e45-88ef-f320c7d5b320" alt="Image", width= "400px" />
 </p>
 
 ## 🚀 What I Do
